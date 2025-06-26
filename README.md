@@ -35,6 +35,7 @@ You can find more of my projects and contact info on my [GitHub profile](https:/
 
 ## Note
 I have not finished this project yet, and there are still some bugs in data transmission and in the desktop application. If you can complete this project, please let me know. I always want to see if my code for GPS location holding actually works. If you have any questions, please get in touch with me. I will help if I can.
+
 A computer application to assist with tracking and setting up the location for GPS location hold mode can be found at: [MyGPSApp](https://github.com/Burnysheep/WindowsFormsApp1)
 
 The two main sources I consulted were: Carbon Aeronautics and Joop Brokking. You can find their website and youtube channel as well as GitHub online
