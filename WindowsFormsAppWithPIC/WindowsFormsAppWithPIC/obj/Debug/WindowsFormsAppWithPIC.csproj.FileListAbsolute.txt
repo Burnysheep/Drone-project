@@ -1,0 +1,10 @@
+C:\Users\ASUS\Documents\Winform pic\WindowsFormsAppWithPIC\WindowsFormsAppWithPIC\bin\Debug\WindowsFormsAppWithPIC.exe.config
+C:\Users\ASUS\Documents\Winform pic\WindowsFormsAppWithPIC\WindowsFormsAppWithPIC\bin\Debug\WindowsFormsAppWithPIC.exe
+C:\Users\ASUS\Documents\Winform pic\WindowsFormsAppWithPIC\WindowsFormsAppWithPIC\bin\Debug\WindowsFormsAppWithPIC.pdb
+C:\Users\ASUS\Documents\Winform pic\WindowsFormsAppWithPIC\WindowsFormsAppWithPIC\obj\Debug\WindowsFormsAppWithPIC.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Winform pic\WindowsFormsAppWithPIC\WindowsFormsAppWithPIC\obj\Debug\WindowsFormsAppWithPIC.Form1.resources
+C:\Users\ASUS\Documents\Winform pic\WindowsFormsAppWithPIC\WindowsFormsAppWithPIC\obj\Debug\WindowsFormsAppWithPIC.Properties.Resources.resources
+C:\Users\ASUS\Documents\Winform pic\WindowsFormsAppWithPIC\WindowsFormsAppWithPIC\obj\Debug\WindowsFormsAppWithPIC.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Winform pic\WindowsFormsAppWithPIC\WindowsFormsAppWithPIC\obj\Debug\WindowsFormsAppWithPIC.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Winform pic\WindowsFormsAppWithPIC\WindowsFormsAppWithPIC\obj\Debug\WindowsFormsAppWithPIC.exe
+C:\Users\ASUS\Documents\Winform pic\WindowsFormsAppWithPIC\WindowsFormsAppWithPIC\obj\Debug\WindowsFormsAppWithPIC.pdb
